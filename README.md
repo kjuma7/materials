@@ -21,8 +21,7 @@ No installation is necessary. The application is a standalone Python script that
 To run the application, execute the script in a Python environment. The GUI will guide you through the input process:
 
 Run the script using your Python interpreter:
-
-_shCopy codepython chore_assignment_app.py_
+**_FinalChoresDistributor.py_**
 
 Input the number of people and chores as prompted by the application.
 Each person will be asked to rate the difficulty of each chore on a scale from 1 to 10.
