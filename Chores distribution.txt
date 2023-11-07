@@ -1,0 +1,30 @@
+Bob is assigned:
+ - Dishes
+ - Dishes
+ - Trash
+ - Trash
+ - Dishes
+ - Hoovering
+ - Trash
+ - Hoovering
+
+Alice is assigned:
+ - Dishes
+ - Hoovering
+ - Dishes
+ - Hoovering
+ - Laundry
+ - Hoovering
+ - Hoovering
+ - Laundry
+
+Mike is assigned:
+ - Dishes
+ - Hoovering
+ - Laundry
+ - Hoovering
+ - Hoovering
+ - Hoovering
+ - Dishes
+ - Laundry
+
