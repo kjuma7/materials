@@ -1,8 +1,8 @@
-# materials
+# Chore Assignment Application
 
-**Chore Assignment Application
 
-Introduction**
+
+**Introduction**
 
 This Chore Assignment Application is a user-friendly tool designed to fairly distribute house chores among a group of people. The distribution is based on individual ratings for each chore's difficulty to ensure an "envy-free" allocation, where no person prefers another's set of chores over their own. The application uses a simple GUI built with Tkinter and applies a Monte Carlo method to find a suitable chore distribution.
 
